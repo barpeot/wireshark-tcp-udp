@@ -29,7 +29,6 @@ Sequence number is 4236649188, Payload is 1514 bytes, and No.
 0.028627 s
 
 ### What is the RTT value the second data-carrying TCP segment and its ACK?
-0.053626 - 0.052855 s = 0.000771 s
 
 ### What is the EstimatedRTT value (see Section 3.5.3, in the text) after the ACK for the second data-carrying segment is received?
 
