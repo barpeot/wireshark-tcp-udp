@@ -91,4 +91,4 @@ Packet 15
 Packet 17
 
 ### Describe the relationship between the port numbers in the two packets. 
-The source port number of packet 15 is the destination port number of packet 17 and vice versa.
+The source port number of packet 15 (the request) is the destination port number of packet 17 (the reply) and vice versa.
